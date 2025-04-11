@@ -36,4 +36,15 @@ A sleek, animated calculator app built with **React**, featuring:
 ---
 
 ## 📂 Project Structure
+react-calculator/ 
+├── public/ │
+└── index.html 
+├── src/ 
+│ ├── App.js 
+│ ├── App.css 
+│ ├── Calculator.js 
+│ ├── Calculator.css 
+│ └── index.js 
+├── package.json 
+└── README.md
 
